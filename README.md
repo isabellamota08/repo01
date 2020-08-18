@@ -1,7 +1,7 @@
 # Isabella Mota
 
-Formação acadêmica
+**#Formação acadêmica**
 + TADS Uninove (2018-2020)
 
-#Experiência
+**#Experiência**
 +Estagiando na área de sistemas do Tribunal de Justiça de São Paulo
